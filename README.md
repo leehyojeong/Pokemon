@@ -22,4 +22,4 @@
   - 게임 경로에 있는 디렉토리 중 디렉토리명의 특정 숫자를 입력해야 보스 스테이지로 넘어갈 수 있다. 
   - 보스 스테이지에서 승리하면 엔딩화면으로 넘어간다.
 ### 실행 영상
-- 
+- https://github.com/leehyojeong/Pokemon/blob/master/pokemon.mp4
